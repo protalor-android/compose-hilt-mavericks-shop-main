@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShopMain</string>
+    <string name="all">전체</string>
+    <string name="won">%s원</string>
+</resources>
